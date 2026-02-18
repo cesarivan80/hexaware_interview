@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5KLuVVj8+ayb629In2uTAxyL64JSofOt3aJ78kbuySKt9b2yCLBGa/5OFELXha575/G4ZgNNgaXgMrHv4iXzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cesar\\Documentos\\Certificaciones\\Cypress\\selenium_c#-interview\\Automation\\SeleniumNUnitFramework\\SeleniumNUnitFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\selenium.support\\4.40.0\\selenium.support.4.40.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\selenium.webdriver\\4.40.0\\selenium.webdriver.4.40.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\selenium.webdriver.chromedriver\\145.0.7632.7600\\selenium.webdriver.chromedriver.145.0.7632.7600.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
